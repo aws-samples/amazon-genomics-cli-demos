@@ -8,5 +8,5 @@ This [jupyter notebook](./profiling_workflow_performance_with_amazon_genomics_cl
 
 | plot | html | png |
 | --- | :---: | :---: |
-| Plot 1 - basic task timing plot | [html](./gatk4-data-processing__onDemandCtxCromwell__8cf8e737-6584-4309-ab5f-0aae8e885369__plot1.html) | [png](./plot1.png) |
-| Plot 2 - combined cost, compute resources, and task timing | [html](./gatk4-data-processing__onDemandCtxCromwell__8cf8e737-6584-4309-ab5f-0aae8e885369__plot2.html) | [png](./plot2.png) |
+| Plot 1 - basic task timing plot | [html](./gatk4-data-processing__onDemandCtxCromwell__8cf8e737-6584-4309-ab5f-0aae8e885369__plot1.html) | [png](./gatk4-data-processing__onDemandCtxCromwell__8cf8e737-6584-4309-ab5f-0aae8e885369__plot1.png) |
+| Plot 2 - combined cost, compute resources, and task timing | [html](./gatk4-data-processing__onDemandCtxCromwell__8cf8e737-6584-4309-ab5f-0aae8e885369__plot2.html) | [png](./gatk4-data-processing__onDemandCtxCromwell__8cf8e737-6584-4309-ab5f-0aae8e885369__plot2.png) |
