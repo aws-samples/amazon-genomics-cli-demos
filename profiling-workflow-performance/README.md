@@ -4,9 +4,9 @@ Profiling is an essential part of developing genomics workflows. By identifying 
 
 This [jupyter notebook](./profiling_workflow_performance_with_amazon_genomics_cli.ipynb) provides example code demonstrating how to profile workflows run by the Amazon Genomics CLI as described by the blog "Profiling workflow performance with the Amazon Genomics CLI".
 
-**Note:** The plots in the notebook are generated using [Bokeh](https://docs.bokeh.org/en/latest/). Github's Jupyter Notebook preview may not render them. These plots have also been exported as html and png:
+**Note:** The plots in the notebook are generated using [Bokeh](https://docs.bokeh.org/en/latest/). Github's Jupyter Notebook preview may not render them. These plots have also been exported as png:
 
-| plot | html | png |
-| --- | :---: | :---: |
-| Plot 1 - basic task timing plot | [html](./gatk4-data-processing__onDemandCtxCromwell__8cf8e737-6584-4309-ab5f-0aae8e885369__plot1.html) | [png](./gatk4-data-processing__onDemandCtxCromwell__8cf8e737-6584-4309-ab5f-0aae8e885369__plot1.png) |
-| Plot 2 - combined cost, compute resources, and task timing | [html](./gatk4-data-processing__onDemandCtxCromwell__8cf8e737-6584-4309-ab5f-0aae8e885369__plot2.html) | [png](./gatk4-data-processing__onDemandCtxCromwell__8cf8e737-6584-4309-ab5f-0aae8e885369__plot2.png) |
+| plot | png |
+| --- | :---: |
+| Plot 1 - basic task timing plot | [png](./gatk4-data-processing__onDemandCtxCromwell__8cf8e737-6584-4309-ab5f-0aae8e885369__plot1.png) |
+| Plot 2 - combined cost, compute resources, and task timing | [png](./gatk4-data-processing__onDemandCtxCromwell__8cf8e737-6584-4309-ab5f-0aae8e885369__plot2.png) |
